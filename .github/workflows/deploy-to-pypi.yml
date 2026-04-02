@@ -18,7 +18,7 @@ jobs:
       ARCHS_LINUX_INTEL_BASE: '["x86_64"]'
       ARCHS_LINUX_INTEL_FULL: '["x86_64", "i686"]'
       ARCHS_LINUX_ARM_BASE: '["aarch64"]'
-      ARCHS_LINUX_ARM_FULL: '["aarch64"]'
+      ARCHS_LINUX_ARM_FULL: '["aarch64"]' 
       ARCHS_MACOS_BASE: '["x86_64"]'
       ARCHS_MACOS_FULL: '["x86_64", "arm64", "universal2"]'
       ARCHS_WINDOWS_BASE: '["AMD64"]'
